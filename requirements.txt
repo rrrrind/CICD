@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+sklearn
+matplotlib
+jupyterlab==2.3.1
